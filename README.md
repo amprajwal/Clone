@@ -1,2 +1,2 @@
-# Netflix-Clone
-A Responsive Netflix Canadas's Clone Website using HTML &amp; CSS
+# Clone-WebApps
+Personal Repository for Responsive Clone Website Apps.
